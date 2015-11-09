@@ -1,6 +1,5 @@
 # ESP8266-01-devBoard
-ARES and ISIS files on adding 16 GPIOs, 4 ADCs and 2 DACs
-
+ARES and ISIS files on adding 16 GPIOs, 4 ADCs and 2 DACs.
 The project files are as shown:
 
 Arduino sketch    Arduino sketch example
