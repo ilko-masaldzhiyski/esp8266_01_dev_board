@@ -2,15 +2,15 @@
 ARES and ISIS files on adding 16 GPIOs, 4 ADCs and 2 DACs.
 The project files are as shown:
 
-Arduino sketch    Arduino sketch example
+Arduino sketch  -  Arduino sketch example
 
-README.md         Readme file
+README.md  -  Readme file
 
-devBoard.bmp      devBoard schematics
+devBoard.bmp  -  devBoard schematics
 
-devboard.pdsprj   devBoard project file
+devboard.pdsprj  -  devBoard project file
 
-reflash.pdsprj    Reflash board project file
+reflash.pdsprj  -  Reflash board project file
 
-reflashBoard.bmp  Reflash schematics   
+reflashBoard.bmp  -  Reflash schematics   
 
