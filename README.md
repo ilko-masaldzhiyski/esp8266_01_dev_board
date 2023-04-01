@@ -11,3 +11,5 @@ The project files are as shown:
 * devboard.pdsprj  -  devBoard project file
 * reflash.pdsprj  -  Reflash board project file
 * reflashBoard.bmp  -  Reflash schematics   
+
+More [here](https://masaldzhiyski.com/embedded-design/esp8266/index.html)
